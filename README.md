@@ -1,2 +1,3 @@
 # Second.c-
-2nd
+Simple banking system 
+
